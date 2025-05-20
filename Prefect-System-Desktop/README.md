@@ -1,1 +1,0 @@
-# osd-records-mgt-desktop-app
